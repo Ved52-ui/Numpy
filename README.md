@@ -1,5 +1,5 @@
 # 🚀 NumPy Array Functions – Ultimate Cheat Sheet  
-kh gi hfthhihtnhg
+kh g hfthhihtnhg
 <p align="center">
   <img src="https://numpy.org/images/logo.svg" width="200" alt="NumPy Logo"/>
 </p>
