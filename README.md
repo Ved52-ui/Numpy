@@ -7,7 +7,7 @@
   <b>A complete and beautiful guide to all major <code>NumPy</code> array functions.</b>  
   <br/> Learn NumPy faster with this handy cheat sheet! 
 </p>
-th
+t
 ---
 
 ## 📖 Table of Contents  
