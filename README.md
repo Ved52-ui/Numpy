@@ -7,7 +7,7 @@
   <b>A complete and beautiful guide to all major <code>NumPy</code> array functions.</b>  
   <br/> Learn NumPy faster with this handy cheat sheet! 
 </p>
-the quick brown fox is jups ovr the  
+the quick brown fox is jups vr the  
 ---
 
 ## 📖 Table of Contents  
