@@ -9,7 +9,7 @@
 </p>
 
 ---
-kfkmvm
+kfkmv
 ## 📖 Table of Contents  
 - [🌱 Array Creation](#-array-creation)  
 - [🔎 Array Inspection](#-array-inspection)  
