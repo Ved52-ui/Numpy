@@ -9,7 +9,7 @@
 </p>
 
 ---
-k
+
 ## 📖 Table of Contents  
 - [🌱 Array Creation](#-array-creation)  
 - [🔎 Array Inspection](#-array-inspection)  
